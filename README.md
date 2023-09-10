@@ -1,4 +1,4 @@
-# Tic Tac Toe Game in React - Beginner's Guide
+# Tic Tac Toe Game in React 
 
 Welcome to the Tic Tac Toe game in React! This simple project is designed for beginners who want to learn the basics of building a web application using React. 
 
@@ -13,8 +13,6 @@ Welcome to the Tic Tac Toe game in React! This simple project is designed for be
 - [Components](#components)
 - [Running the Application](#running-the-application)
 - [Additional Features](#additional-features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
